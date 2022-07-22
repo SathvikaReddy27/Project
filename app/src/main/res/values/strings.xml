@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Paws</string>
+    <string name="paws">PAWS</string>
+    <string name="add">ADD</string>
+    <string name="better">MAKE LIFE BETTER FOR \nSTRAY DOGS!</string>
+    <string name="follow">Follow Us On:</string>
+    <string name="home">Home</string>
+    <string name="breed">Dog Breeds</string>
+    <string name="adoptions">Adoptions</string>
+    <string name="donate">Donate</string>
+    <string name="golden">Golden Retriever</string>
+    <string name="lifespan">10 \- 12 Years</string>
+    <string name="caption">LOVE is a four letter word, so is PAWS.</string>
+    <string name="homepage">DOGS ARE NOT OUR \nWHOLE LIFE, BUT THEY \nMAKE OUR LIVES WHOLE.</string>
+    <string name="donate_though">DONATE THROUGH:</string>
+    <string name="gpay">GOOGLE PAY / PHONE PAY / PAYTM</string>
+    <string name="text">text</string>
+    <string name="number">TO PHONE NO: 8754965412</string>
+    <string name="name">Name</string>
+    <string name="addBreed">Breed</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="place">Place</string>
+    <string name="contact">Contact</string>
+    <string name="homepage_quote">You really \nhave to be \nsome kind of \na creep for \na dog to \nreject you!</string>
+    <string name="golden_intro">The Golden Retriever, part of the sporting group of dogs, was originally bred as a hunting companion for retrieveing waterfowl, and continues to be one of the most popular family dogs in the United States.
+        Affectionate, obedient, and loyal to a fault, the fun loving Retriever makes an ideal pet for the whole family to love.</string>
+    <string name="physical_char">PHYSICAL CHARACTERISTICS:</string>
+    <string name="golden_phy">Golden Retrievers are strong, athletic build are accentuated by its well-developed hindquarters and forequarters.
+        This gives the Golden Retriever a powerful, smooth gait. The Retriever is also characterized by its strong neck and a broad head. Its coat, generally found in various shades of gold, is dense and waterproof, and may be straight or wavy.</string>
+    <string name="health">HEALTH:</string>
+    <string name="golden_health">The Golden Retriever breed has a lifespan of between 10 and 13 years. Some of its minor health problems include hypothyroidism, sub-aortic stenosis (SAS), eye disorders, elbow dysplasia, mast cell tumors, and seizures.
+        Steosarcoma is also occasionally seen in Golden Retrievers.</string>
+    <string name="care">CARE:</string>
+    <string name="golden_care">The Retriever is at its best when kept indoors with the family.
+        In addition, it is important for the Retriever to maintain a daily exercise routine, or take part in active games, so that it can spend its natural energy and relax comfortably  during "non-playing" hours.</string>
+    <string name="lab">Labrador</string>
+    <string name="lab_intro">The Labrador Retriever has long been regarded as the most suitable pet throughout the world. Specially suited for hunting and often trained to hunt with gun sportsmen, the Lab has rightfully earned the title of a "gun dog."
+        It is a remarkable working companion that is used for various purposes, such as physical assistance and personal protection.
+        However, its loyalty and friendly temperament also make the Lab an outstanding pet.</string>
+    <string name="lab_phy_char">With a strong, heavy built body and square proportions, the Labrador Retriever is classified as a working dog. These dogs also have strong legs and shoulders, which add to their fast pace.
+        At full adult size, they stand at about 21 to 24 inches in height at the withers (the highest part of the back), with a weight of 50 to 80 pounds.
+        Retrievers are expected to maintain the characteristics that originally made them working dogs: stamina, energy, strength, and the ability to retrieve dependably, along with balanced structure and vitality.</string>
+
+    <string name="lab_health">Some of the general health conditions that afflict Labradors are patellar luxation, canine hip dysplasia (CHD), and osteochondritis dissecans (OCD), which is canine elbow and shoulder dysplasia.
+        This breed also occasionally suffers from distichiasis, exercise-induced collapse, diabetes, muscular dystrophy, tricuspid valve dysplasia, and entropion.
+Knee, hip, eye, and elbow tests should be included in the usual medical check-ups.</string>
+    <string name="lab_care">A weekly combing is all that is needed for a Labrador Retriever, since their water resistant coat is also designed to be soil and rubbish resistant.
+One thing that is especially important to keep in mind is that this breed has a tendency to retain weight if it is sedentary too often, or if it is given too many treats.
+        One of the most common health problems for the modern Labrador dog is obesity.</string>
+    <string name="german">German Shepherd</string>
+    <string name="german_intro">The German Shepherd Dog is a large-sized breed belonging to the herding group of working dogs. Intelligent as it is versatile, this breed was originally developed in Germany to guard and herd a shepherd\'s flocks.
+        The German Shepherd requires an active lifestyle, and makes for an ideal companion and protector.</string>
+    <string name="german_phy_char">The German Shepherd has a double coat, which is comprised of a thick undercoat and a dense, slightly wavy or straight outer coat.Its hair, usually tan and black, or red and black in color, is medium in length and is shed all year round.
+    Other rarer color variations include all Black, all White, liver and blue.
+    The German Shepherd\'s body is long generally between 22 and 26 inches in proportion to its height. This gives the dog strength, agility, elasticity and long, elegant strides.</string>
+    <string name="german_health">however, susceptible to some serious health conditions like elbow dysplasia and canine hip dysplasia (CHD), as well as problems like cardiomyopathy, hemangiosarcoma, panosteitis, von Willebrand\'s Disease (vWD), degenerative myelopathy,
+        cauda equina, malignant neoplasms, pannus, hot spots, skin allergies, gastric torsion, cataract, and perianal fistulas.
+        This breed is also prone to a fatal fungal infection due to the Aspergillus mold. Because of these susceptibilities German Shepherds, like most other dogs, need to be seen by a veterinarian for routine checkups.
+        There they will undergo hip, elbow blood, eye and other tests.</string>
+    <string name="german_care">The German Shepherd can live outdoors in cool or temperate climates, but enjoys living indoors too. Frequent training or exercise sessions are essential for keeping its mind and body active, and because the German Shepherd sheds throughout the year,
+        its coat should be brushed once or twice a week to encourage turnover as well as to minimize buildup in the home.</string>
+    <string name="pom">Pomeranian</string>
+    <string name="pom_intro">The Pomeranian is the smallest dog in the Spitz family. A companion dog, it is not only known for its compact size, but its thick, rounded coat. Pomeranian owners also love their "Poms" for their bold and exuberant personalities.</string>
+    <string name="pom_health">The Pomeranian breed has a lifespan of about 12 to 16 years. It has a tendency to suffer from minor health conditions such as open fontanel, shoulder luxation, hypoglycemia, progressive retinal atrophy (PRA), and entropion, or major issues like patellar luxation.
+        Tracheal collapse and patent ductus arteriosis (PDA) are sometimes noticed in Pomeranians. To identify some of these issues, a veterinarian may run cardiac, knee, and eye exams on this breed of dog.</string>
+    <string name="pom_phy_char">The Pomeranian dog has a fox-like and alert expression. A small, square-proportioned breed, the Pomeranian\'s distinctive puffy appearance comes from its thick, soft undercoat and harsh, long outer coat, which stands away from its body and is usually a
+        variation of red, orange, cream, black and sable; an up-gazing head carriage and thick ruff further enhance the Pomeranian\'s physical appearance.</string>
+    <string name="pom_care">The small but active Pomeranian dog requires daily physical stimulation short walks or indoor games. Its double coat requires brushing twice a week or more frequently during shedding periods. As it is very family oriented and small, it should not kept outdoors.</string>
+</resources>
